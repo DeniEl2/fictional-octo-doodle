@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+.container{
+    border: 0.5px solid black;
+    max-width: 650px;
+    width: 640px;
+    height: 164px;
+    padding: 24px;
+    gap: 12px;
+    margin: 40px;
+}
+
+.header_input{
+    display: flex;
+    align-items: center;
+}
+
+
+.img_input{
+    width: 30px;
+    max-width: 30px;
+    max-height:30px;
+    height: 30px;
+    border-radius: 20px;
+}
+
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 192px;
+    height: 52px;
+    border-radius: 100px;
+    border: 1px solid #E5E7EB;
+    padding: 10px 16px 10px 12px;
+    gap: 12px;
+    margin-right: 10px;
+}
+
+.one p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.one1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 191px;
+    height: 52px;
+    border-radius: 100px;
+    border: 1px solid #E5E7EB;
+    padding: 10px 50px 10px 0;
+    gap: 12px;
+    margin-right: 10px;
+}
+
+.one3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 217px;
+    height: 52px;
+    border-radius: 100px;
+    border: 1px solid #E5E7EB;
+    padding: 10px 16px 10px 12px;
+    gap: 12px;
+}
+
+.one3 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.middle_input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.one4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 125px;
+    height: 52px;
+    border-radius: 100px;
+    border: 1px solid #E5E7EB;
+    padding: 10px 16px 10px 12px;
+    gap: 12px;
+    margin-right: 20px;
+}
+
+.one5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 202px;
+    height: 52px;
+    border-radius: 100px;
+    border: 1px solid #E5E7EB;
+    padding: 10px 16px 10px 12px;
+    gap: 12px;
+}
